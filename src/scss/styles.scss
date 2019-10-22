@@ -11,6 +11,12 @@
 
 // Import partials here
 
-.jumbtron{
-  background-image: url("bgdesert.jpg");
+.jumbotron{
+  background-image: url(../img/pirate-ship.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
 }
