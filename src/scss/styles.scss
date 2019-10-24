@@ -14,9 +14,13 @@
 .jumbotron{
   background-image: url(../img/pirate-ship.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat fixed;
+  font-style: italic;
+  font-family: "papayrus"; 
+
 }
 
 .nav-link:hover {
   text-decoration: underline;
 }
+
